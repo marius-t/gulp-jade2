@@ -1,5 +1,5 @@
 {
-  "name": "gulp-bower-source",
+  "name": "gulp-jade2",
   "version": "0.0.1",
   "description": "Compile Jade templates. Ouput extension can be HTML or whatever you setup",
   "main": "index.js",
