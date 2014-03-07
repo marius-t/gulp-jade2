@@ -1,0 +1,30 @@
+{
+  "name": "gulp-bower-source",
+  "version": "0.0.1",
+  "description": "Compile Jade templates. Ouput extension can be HTML or whatever you setup",
+  "main": "index.js",
+  "author": {
+    "name": "Marius Talagiu",
+    "email": "marius@phanmedia.ro"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.0"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.14",
+    "jade": "~1.1",
+    "through2": "~0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marius-t/gulp-jade2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marius-t/gulp-jade2/issues"
+  },
+  "homepage": "https://github.com/marius-t/gulp-jade2",
+  "readmeFilename": "README.md",
+  "_id": "gulp-gulp2@0.0.1",
+  "_from": "gulp-gulp2@0.0.1"
+}
